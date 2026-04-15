@@ -1,4 +1,4 @@
-name: Build and Publish
+yamlname: Build and Publish
 
 on:
   push:
@@ -11,20 +11,26 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Install Pandoc
-        run: sudo apt-get install -y pandoc texlive-xetex
-      
-      - name: Build HTML
+      - name: Install Pandoc and LaTeX
         run: |
-          pandoc ENGL101/index.md \
-            --standalone \
-            -o ENGL101/index.html
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
       
-      - name: Build PDF
+      - name: Build HTML files
         run: |
-          pandoc ENGL101/index.md \
-            --pdf-engine=xelatex \
-            -o ENGL101/syllabus.pdf
+          for f in */index.md; do
+            pandoc "$f" \
+              --standalone \
+              -o "${f%.md}.html"
+          done
+      
+      - name: Build PDF files
+        run: |
+          for f in */index.md; do
+            pandoc "$f" \
+              --pdf-engine=xelatex \
+              -o "${f%index.md}syllabus.pdf"
+          done
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
