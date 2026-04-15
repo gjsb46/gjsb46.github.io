@@ -3,7 +3,7 @@
 Content Strategy
 ENGL 388 | Fall 2025
 
-Instructor: Dr. Greg Schneider-Bateman (He/Him)
+## Instructor: Dr. Greg Schneider-Bateman (He/Him)
 Office: Harvey 340E
 Student Hours: T/TH 10-11 & 2:30 - 3:30 and by appointment via Teams
 Email: schneider-batemang@uwstout.edu
