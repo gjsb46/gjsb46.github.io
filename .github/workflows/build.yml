@@ -32,7 +32,7 @@ jobs:
           for f in */index.md; do
             pandoc "$f" \
               --pdf-engine=xelatex \
-              -o "${f%index.md}syllabus.pdf"
+              -o "${f%/index.md}-syllabus.pdf"
           done
       
       - name: Deploy
