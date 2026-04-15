@@ -25,35 +25,39 @@ The class will attempt to fulfill these goals by:
 * Completing a large-scale online writing and design project; and
 * Providing thoughtful feedback on peers’ work.
 
-Required Texts and Materials
+## Required Texts and Materials
 * Getto, Guiseppe and Jack T. Labriola and Sheryl Ruszkiewicz. Content Strategy: A How To Guide. Routledge, NY: 2023. 
 * Redish, Janice. Letting Go of the Words: Writing Web Content that Works Second Edition. Waltham, MA: 2014
 * [Lynch, Patrick and Sarah Horton. Web Style Guide 4th Edition](http://webstyleguide.com). 
 * Access to a computer for word processing, emailing, Canvas, and supplementary course reading
 * Adobe Reader (or software of choice) for reading PDF files
 
-Deliverables
-Content Audit (15%), a report that includes personas, content inventory, quantitative and qualitative audits, message architecture, and site architecture.
-Page Briefs (15%), 4-5 page briefs for the pages you will be revising. 
-Copy Document (15%), your source of truth
-Website Redesign (15%), a rough mockup of the site with copy updated
-Website Presentation (15%), a final presentation to class and the client
-Weekly Activities and Participation (25%), Because reading is such an important way for you to learn concepts and because reading ahead of time allows us to spend more time in class to build, create, innovate, and discuss, you will be completing daily activities tied to readings. See Canvas for questions and schedule. Posts will be graded on the following scale:
+## Deliverables
+### Content Audit (15%)
+A report that includes personas, content inventory, quantitative and qualitative audits, message architecture, and site architecture.
+### Page Briefs (15%)
+4-5 page briefs for the pages you will be revising. 
+### Copy Document (15%)
+Your source of truth
+### Website Redesign (15%)
+A rough mockup of the site with copy updated
+### Website Presentation (15%)
+A final presentation to class and the client
+### Weekly Activities and Participation (25%)
+ecause reading is such an important way for you to learn concepts and because reading ahead of time allows us to spend more time in class to build, create, innovate, and discuss, you will be completing daily activities tied to readings. See Canvas for questions and schedule. Posts will be graded on the following scale:
 
-
-
-Expectations and Policies
-Student Hours
+## Expectations and Policies
+### Student Hours
 Your success in this (and any) class is your responsibility.  If you find at any time during the term that you do not understand or cannot meet the course requirements, you should speak to me immediately.
 
 In addition, I am more than happy to discuss an assignment, brainstorm, talk over an outline, and discuss grades at any time this semester. Indeed, this is often the best part of my job. However, because email is inefficient for commenting on drafts, I strongly encourage you set up a video chat appointment if you would like feedback on early work.
 
-Communicating with your Professor
+### Communicating with your Professor
 I am willing and happy to listen to all comments, complaints, and suggestions regarding the class. In addition, do not hesitate to let me know if you have any concerns about your work in the class or about anything that is keeping you from doing your best (this includes a range of issues from learning disabilities, illness, personal or family problems, access to basic needs such as food and housing, etc...).  I am also available to talk to about college more generally, future careers, issues in your life, etc... 
  
 Finally, I am open to questions about grades.  All that I ask is that you ask me the class period following the one in which the assignment is returned.  This will give you time to look at your work more objectively. I prefer to communicate with students in person, but I will, of course, respond to emails as well.  You can expect an email reply from me within 24 hours, excluding holidays and weekends. 
 
-Email
+### Email
 To help me be more efficient, please put “ENGL 388: [your concerns/questions]” in the subject line of your emails. This will help your message stand out from the rest of the emails for the day, meaning you will be a quicker response.  I will do my best to respond to your emails as quickly as possible, but also know that I am most likely to respond in a quick manner during regular working (and/or office) hours.  Also, please keep all emails fairly formal (e.g., have an opening / greeting and a closing / salutation).  Overly informal emails reflect poorly on the sender.
 
 Assignment Submission
