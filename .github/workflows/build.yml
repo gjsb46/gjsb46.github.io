@@ -14,7 +14,8 @@ jobs:
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex
+          sudo apt-get install -y pandoc texlive-xetex python3-pip
+          pip3 install pandoc-include
       
       - name: Build HTML files
         run: |
@@ -23,14 +24,16 @@ jobs:
             -o index.html
           for f in */index.md; do
             pandoc "$f" \
+              --filter pandoc-include \
               --standalone \
               -o "${f%.md}.html"
           done
       
-      - name: Build PDF files
+       - name: Build PDF files
         run: |
           for f in */index.md; do
             pandoc "$f" \
+              --filter pandoc-include \
               --pdf-engine=xelatex \
               -o "${f%/index.md}-syllabus.pdf"
           done
