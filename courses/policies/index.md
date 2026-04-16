@@ -3,7 +3,7 @@ layout: default
 title: Policies
 ---
 
-### Policies and Expectations
+## Policies and Expectations
 
 ### Student Hours
 Your success in this (and any) class is your responsibility.  If you find at any time during the term that you do not understand or cannot meet the course requirements, you should speak to me immediately.
