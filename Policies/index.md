@@ -91,6 +91,3 @@ The following translates the above numerical system into slightly more specific 
 “F”:  	The student’s work does not meet all the course requirements and is not worthy of credit.
 
 Scores will be made available online via Canvas but are to be considered unofficial.  Official grades are kept offline by the instructor.  Email the instructor or come to office hours if you have a question.  This course meets Domain I and Standards 1 and 6 of the Wisconsin Teaching Standards.
-
-Course Calendar
-See Canvas for week-by-week schedule. 
