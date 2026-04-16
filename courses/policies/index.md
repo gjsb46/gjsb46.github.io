@@ -76,7 +76,7 @@ Grades will be determined based upon the following scheme:
 	B+	87-89		D+	67-69
 	B	84-86		D	64-66
 	B-	80-83 		D-	60-63
-	C+	77-79		F		62 and below
+	C+	77-79		F	62 and below
 
 The following translates the above numerical system into slightly more specific terms:
 
