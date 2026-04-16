@@ -1,3 +1,9 @@
 theme: minima
 title: Dr. Greg Schneider-Bateman
 description: Teaching, research, and course materials.
+
+header_pages:
+  - courses/index.md
+  - research/index.md
+  - cv/index.md
+  - about/index.md
