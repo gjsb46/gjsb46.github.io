@@ -22,6 +22,4 @@ function Para(el)
     end
   end
 end
-Replace your current include.lua with this and commit. It now handles the !include syntax whether Pandoc treats it as a paragraph or a raw block.
-
 
