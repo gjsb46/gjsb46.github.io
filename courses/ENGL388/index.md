@@ -1,3 +1,8 @@
+---
+layout: default
+title: Content Strategy
+---
+
 # Content Strategy
 ## ENGL 388 | Fall 2025
 
