@@ -1,3 +1,8 @@
+---
+layout: default
+title: Policies
+---
+
 ### Policies and Expectations
 
 ### Student Hours
