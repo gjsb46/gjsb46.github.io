@@ -1,4 +1,5 @@
+# Dr. Greg Schneider-Bateman
 
-### [Home](https://gjsb46.github.io/)
+Welcome to my professional site.
 
-### [ENGL 388: Content Strategy](https://gjsb46.github.io/courses/ENGL388/)
+[Courses](/courses/)
