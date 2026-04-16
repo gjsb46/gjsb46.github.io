@@ -49,3 +49,6 @@ ecause reading is such an important way for you to learn concepts and because re
 ## Policies
 For updated course policies, please visit [course policies](../Policies/). 
 
+## Course Calendar
+See Canvas for week-by-week schedule. 
+
