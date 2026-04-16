@@ -47,5 +47,5 @@ A final presentation to class and the client
 ecause reading is such an important way for you to learn concepts and because reading ahead of time allows us to spend more time in class to build, create, innovate, and discuss, you will be completing daily activities tied to readings. See Canvas for questions and schedule. Posts will be graded on the following scale:
 
 ## Policies
-For updated course policies, please visit [course policies](../policies/). 
+For updated course policies, please visit [course policies](../Policies/). 
 
