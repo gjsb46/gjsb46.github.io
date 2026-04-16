@@ -3,6 +3,5 @@ layout: default
 title: Courses
 ---
 
-[Home](https://gjsb46.github.io/)
-
-[ENGL 388: Content Strategy](https://gjsb46.github.io/ENGL388/)
+[ENGL 101: Composition 1](https://gjsb46.github.io/courses/ENGL101
+[ENGL 388: Content Strategy](https://gjsb46.github.io/courses/ENGL388/)
