@@ -24,7 +24,7 @@ jobs:
             -o index.html
           for f in */index.md; do
             pandoc "$f" \
-              --filter pandoc-include \
+              --lua-filter include.lua \
               --standalone \
               -o "${f%.md}.html"
           done
@@ -33,7 +33,7 @@ jobs:
         run: |
           for f in */index.md; do
             pandoc "$f" \
-              --filter pandoc-include \
+              --lua-filter include.lua \
               --pdf-engine=xelatex \
               -o "${f%/index.md}-syllabus.pdf"
           done
